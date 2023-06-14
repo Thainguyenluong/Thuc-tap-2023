@@ -14,6 +14,12 @@ khi một gói dữ liệu được nhận bởi một router,router sẽ kiểm
 
 ![routingpic](images/routing.png)
 
+### Network gateway
+
+Gateway là một thiết bị hoặc node kết nối hai mạng riêng biệt bằng cách chuyển đổi các giao thức truyền thông từ mạng này sang mạng khác. Gateway cũng quản lý luồng dữ liệu giữa hai mạng. Điều này cho phép thông tin được truyền giữa các mạng khác nhau dù chúng có sử dụng hai giao thức mạng khác nhau. Gateway có thể là một chiều (chỉ cho phép luồng dữ liệu theo một hướng) hoặc hai chiều (cho phép luồng dữ liệu theo cả hai hướng).
+
+![picgateway](images/gateway.png)
+
 ## Các loại định tuyến
 Định tuyến có thể được phân thành hai loại chính: định tuyến tĩnh và định tuyến động
 ## Định tuyến tĩnh:
@@ -75,3 +81,4 @@ Nguồn tham khảo
 2. [Nguồn 2](https://www.geeksforgeeks.org/difference-between-static-and-dynamic-routing/)
 3. [Nguồn 3](https://www.geeksforgeeks.org/types-of-routing/)
 4. [Nguồn 4](https://www.geeksforgeeks.org/what-is-dynamic-routing-in-computer-network/)
+5. [Nguồn 5](https://www.tutorialspoint.com/what-are-gateways-in-computer-network)
