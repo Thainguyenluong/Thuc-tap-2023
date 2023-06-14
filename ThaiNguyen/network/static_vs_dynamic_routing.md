@@ -1,5 +1,5 @@
-## Routing definition
-Routing is the process of selecting the best path to send a data packet from the sender to the receiver in a network. Routing is important in creating efficiency in communication between devices in a network and also helps to minimize network failure. Routing is conducted by a router using a routing table to determine the best path to send a data packet from the one place to another. 
+## Định nghĩa định tuyến
+Định tuyến là quá trình chọn đường dẫn tốt nhất để gửi gói dữ liệu từ người gửi đến người nhận trong mạng. Định tuyến rất quan trọng trong việc tạo ra hiệu quả trong giao tiếp giữa các thiết bị trong mạng và cũng giúp giảm thiểu lỗi mạng. Định tuyến được thực hiện bởi một bộ định tuyến sử dụng bảng định tuyến để xác định đường dẫn tốt nhất để gửi gói dữ liệu từ nơi này đến nơi khác.
 
 ### Routing table
 - một bảng được sử dụng bởi router để tìm quãng đường thuận lợi nhất để truyền một gói tin đến điểm nhận của nó.
